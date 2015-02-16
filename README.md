@@ -1,2 +1,1 @@
-# DRW-GM
-DRW-GM
+Package DRWPClassGM implements the DRW-GM method. DRW-GM is a pathway-based classification method which performs classifier construction and precise disease status prediction by joint analysis of genomic and metabolomic data and pathway topology.
