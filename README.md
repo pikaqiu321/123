@@ -11,7 +11,7 @@ Windows binary:	DRWPClassGM_1.0.zip
 
 Reference manual:	DRWPClassGM-manual.pdf 
 
-http://222.170.78.208/DRW-GM/download.html
+http://222.170.78.208/DRW-GM/
 
 Dependent packages:
 Depends: R (>= 3.1.1), igraph, Matrix, RWeka, samr
