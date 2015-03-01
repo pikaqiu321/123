@@ -16,7 +16,7 @@ http://222.170.78.208/DRW-GM/
 Dependent packages:
 Depends: R (>= 3.1.1), igraph, Matrix, RWeka, samr
 ###########Example code for predicting disease class##############
-library(DRWPClass)
+library(DRWPClassGM)
 # load example data
 data(GProf8511)
 data(GProf3325)
